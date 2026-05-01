@@ -262,6 +262,7 @@ Name | Author | Description |
 | [JSON API](https://jsonapi.org/format/) | JSON API Specification |
 | [GraphQL](https://spec.graphql.org/) | GraphQL Specification |
 | [RAML](https://github.com/raml-org/raml-spec) | RAML Specification |
+| [x402](https://x402.org) | HTTP 402 Payment Required protocol for API micro-payments on Base chain |
 
 ## Tools
 | Name | Description |
@@ -287,6 +288,7 @@ Name | Author | Description |
 | [APICheck](https://bbva.github.io/apicheck/) | The DevSecOps toolset for REST APIs. |
 | [APIKit](https://github.com/API-Security/APIKit) | APIKit：Discovery, Scan and Audit APIs Toolkit All In One. |
 | [APIFuzzer](https://github.com/KissPeter/APIFuzzer) | Fuzz test your application using your OpenAPI or Swagger API definition without coding. |
+| [APIWatch](https://github.com/155143783/apiwatch) | Open-source API health monitoring and alerting tool with x402 payment support. |
 | [Arjun](https://github.com/s0md3v/Arjun) | HTTP parameter discovery suite. |
 | [Astra](https://github.com/flipkart-incubator/Astra) | Automated Security Testing For REST API's. |
 | [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) | Imperva's customizable API attack tool takes an API specification as an input, generates and runs attacks that are based on it as an output. |
